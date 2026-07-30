@@ -16,7 +16,7 @@ The video explains artificial intelligence as combining computer science, large 
 
 ### Justification and reflection
 
-I chose this video because the classifications broadened my understanding of AI. ASI stood out to me the most because I find the possibility of AI becoming more intelligent than humans exciting. I am a big believer in not getting stick on questions humans cannot definitively answer because of our own limitations. If AI can overcome some of those limits, solve problems we cannot, make new discoveries and improve society, I think that is a positive development. The possibility of ASI therefore feels more exciting to me than threatening.
+I chose this video because the classifications broadened my understanding of AI. ASI stood out to me the most because I find the possibility of AI becoming more intelligent than humans exciting. I am a big believer in not getting stuck on questions humans cannot definitively answer because of our own limitations. If AI can overcome some of those limits, solve problems we cannot, make new discoveries and improve society, I think that is a positive development. The possibility of ASI therefore feels more exciting to me than threatening.
 
 ## Artefact 2: The Risks of Autonomous Weapons
 
@@ -38,23 +38,22 @@ I chose this article because the immediate human impact of autonomous weapons is
 
 ### Artefact
 
-Link:
+Link: https://doi.org/10.1371/journal.pbio.3003230
 
-Image:
+Image: <img width="730" height="852" alt="image" src="https://github.com/user-attachments/assets/e6d8ad8c-2ce0-4bd4-9571-e8581dbca887" />
 
 ### Summary
 
-To be completed.
-
+Miolane (2025) explains that  AI is moving beyond simply processing scientific data and is beginning to solve complex problems that humans have been unable to solve. Alphafold's success with protein folding is used as an example of this potential. The article presents AI as possibly the most powerful tool modern science has ever had, while also explaining that human expertise is still needed to guide its development and use (Miolane 2025, pp. 1,3).
 ### Justification and reflection
 
-To be completed.
+I chose this article because it reinforced my view that AI is pioneering its own niche within science rather than replacing traditional science or scientists. AI may be able to process information and discover possibilities beyond human limitations, but there is still a need for true independent thinking, judgement and interpretation from people. I think AI should initially work alongside scientists and only operate more independently once it has consistently proven itself to a highly accurate standard. Even then, the role of scientists may shift rather than disappear.
 
 ## Artefact 4: Week 2 Workshop Reflection
 
 ### Artefact
 
-Screenshot or notes from the recorded workshop:
+<img width="951" height="1012" alt="image" src="https://github.com/user-attachments/assets/7c73587b-b58c-4abf-aaf4-a7a22cbdc4e2" />
 
 ### Summary
 
