@@ -12,7 +12,7 @@ Image: <img width="1348" height="984" alt="image" src="https://github.com/user-a
 
 ### Summary
 
-The video explains artificial intelligence as combining computer science, large sets of data and problem solving. It introduces three classifications of AI: Artificial Narrow Intelligence, Artificial General Intelligence and Artificial Super Intelligence. These classifications show different levels of capability, from systems designed for specific tasks to the theoretical possibility of AI exceeding human intelligence.
+The video explains artificial intelligence as combining computer science, large sets of data and problem solving. It introduces three classifications of AI: Artificial Narrow Intelligence, Artificial General Intelligence and Artificial Super Intelligence. These classifications show different levels of capability, from systems designed for specific tasks to the theoretical possibility of AI exceeding human intelligence  (Learn  Bright 2024).
 
 ### Justification and reflection
 
@@ -28,11 +28,11 @@ Image: <img width="1092" height="903" alt="image" src="https://github.com/user-a
 
 ### Summary
 
-The International Committee of the Red Cross argues that autonomous weapons are advancing at an unprecedented rate, while international meetings and regulation are struggling to keep pace. It urges states to act quickly by prohibiting unpredictable autonomous weapons and those designed to use force against people, while imposing binding restrictions on the development and use of other autonomous weapons.
+The International Committee of the Red Cross argues that autonomous weapons are advancing at an unprecedented rate, while international meetings and regulation are struggling to keep pace. It urges states to act quickly by prohibiting unpredictable autonomous weapons and those designed to use force against people, while imposing binding restrictions on the development and use of other autonomous weapons (International Committee of the Red Cross 2024).
 
 ### Justification and reflection
 
-I chose this article because the immediate human impact of autonomous weapons is too significant to ignore. Unlike manty concerns involving AI, a failure involving an autonomous weapon could directly and immediately cost human lives.
+I chose this article because the immediate human impact of autonomous weapons is too significant to ignore. Unlike many concerns involving AI, a failure involving an autonomous weapon could directly and immediately cost human lives. I believe companies should clearly disclose known failure rates and limitations. Responsibility then shifts to the government or military that choose to deploy the system. This reinforced my view that AI can be developed and adopted, but only with clear oversight and accountability.
 
 ## Artefact 3: Scholarly Article
 
@@ -44,7 +44,8 @@ Image: <img width="730" height="852" alt="image" src="https://github.com/user-at
 
 ### Summary
 
-Miolane (2025) explains that  AI is moving beyond simply processing scientific data and is beginning to solve complex problems that humans have been unable to solve. Alphafold's success with protein folding is used as an example of this potential. The article presents AI as possibly the most powerful tool modern science has ever had, while also explaining that human expertise is still needed to guide its development and use (Miolane 2025, pp. 1,3).
+Miolane (2025, p. 1) explains that  AI is moving beyond simply processing scientific data and is beginning to solve complex problems that humans have been unable to solve. AlphaFold's success with protein folding is used as an example of this potential. The article presents AI as possibly the most powerful tool modern science has ever had, while also explaining that human expertise is still needed to guide its development and use (Miolane 2025, p. 3).
+
 ### Justification and reflection
 
 I chose this article because it reinforced my view that AI is pioneering its own niche within science rather than replacing traditional science or scientists. AI may be able to process information and discover possibilities beyond human limitations, but there is still a need for true independent thinking, judgement and interpretation from people. I think AI should initially work alongside scientists and only operate more independently once it has consistently proven itself to a highly accurate standard. Even then, the role of scientists may shift rather than disappear.
@@ -57,7 +58,7 @@ I chose this article because it reinforced my view that AI is pioneering its own
 
 ### Summary
 
-The Week 2 workshop expanded my understanding of AI beyond machine learning and pattern recognition. Kaplan's definitions made me see AS as the ability to make humanlike decisions by collating and analysing data, potentially displaying general intelligence. The workshop also covered ethical issues including surveillance and autonomous weapons.
+The Week 2 workshop expanded my understanding of AI beyond machine learning and pattern recognition. Kaplan's definitions made me see AI as the ability to make humanlike decisions by collating and analysing data, potentially displaying general intelligence. The workshop also covered ethical issues including surveillance and autonomous weapons (CQUniversity 2025).
 
 ### Justification and reflection
 
@@ -69,4 +70,11 @@ I used ChatGPT during the planning stage to ask me reflective questions and help
 
 ## References
 
-To be completed.
+CQUniversity 2026, 'Week 2: artificial Intelligence', PowerPoint presentation, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 30 July 2026, http://moodle.cqu.edu.au/
+
+International Committee of the Red Cross 2024, *ICRC: Future generations must be protected from the serious risks posed by autonomous weapons*, viewed 30 July 2026, https://www.icrc.org/en/document/icrc-future-generations-must-be-protected-serious-risks-posed-autonomous-weapons
+
+Learn Bright 2024, *What is AI? Learn all about artificial intelligence*, video, 6 December, viewed 30 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU
+
+Miolane, N 2025, 'The fifth era of science: artificial scientific intelligence', *PLOS Biology*, vol. 23, no. 6, e3003230. DOI: 10.1371/journal.pbio.3003230
+
