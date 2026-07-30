@@ -58,7 +58,7 @@ Screenshot or notes from the recorded workshop:
 
 ### Summary
 
-To be completed.
+Before watching the workshop, I understood artificial intelligence mainly as machine learning through pattern recognition. Kaplan's definition expanded my understanding because it showed that AI is more complex and advanced than I previously thought. I was impressed by the idea that AI can display general intelligence in a humanlike way. It is not just finding and choosing the most likely answer. It can evaluate the information as a whole and come to new conclusions. This made me see AI as being less about averages and more about discovery.
 
 ### Justification and reflection
 
@@ -66,7 +66,7 @@ To be completed.
 
 ## Use of Artificial Intelligence Tools
 
-ChatGPT was used during the planning and initial idea development stage to help organise the structure of this e-portfolio. All sources will be checked and the final reflections will be written and revised in my own words.
+I used ChatGPT during the planning stage to ask me reflective questions and help organise my responses into a clear structure. I reviewed the workshop and sources myself, formed the views and conclusions expressed in this portfolio, checked the information provided, and revised the content before submission.
 
 ## References
 
