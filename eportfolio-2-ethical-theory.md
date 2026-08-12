@@ -1,4 +1,4 @@
-# E-Portfolio 2: Artificial Intelligence
+# E-Portfolio 2: Ethical Theory
 
 This e-portfolio contains four artefacts that demonstrate what I learned about ethical theories and their application to ICT and society.
 
