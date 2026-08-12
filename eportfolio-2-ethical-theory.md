@@ -28,7 +28,7 @@ Link: https://www.oaic.gov.au/news/media-centre/oaic-takes-civil-penalty-action-
 
 ### Summary
 
-The OAIC (2024) describes civil penalty proceedings against Medibank following its 2022 data breach. It alleges that Medibank failed to protect the personal information of 9.7 million Australians, including sensitive health information. The OAIC argues that organisations have both a legal and ethical duty to protect information entrusted to them.
+The Office of the Australian Information Commissioner (2024) describes civil penalty proceedings against Medibank following its 2022 data breach. It alleges that Medibank failed to protect the personal information of 9.7 million Australians, including sensitive health information. The OAIC argues that organisations have both a legal and ethical duty to protect information entrusted to them.
 
 ### Justification and reflection
 
