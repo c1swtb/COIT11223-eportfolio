@@ -12,11 +12,11 @@ Link: https://www.crowdstrike.com/en-us/blog/falcon-content-update-preliminary-p
 
 ### Summary
 
-CrowdStrike's post-incident review explains how a Rapid Response Content update released in July 2024 contained an undetected error that caused Windows systems to crash. CrowdStrike identified problems in its validation process and proposed changes including more extensive testing and staggered deployments to reduce the risk of a similar failure occurring again (CrowdStrike 2024).
+CrowdStrike's post-incident review explains how a Rapid Response Content update released in July 2024 contained an undetected error that caused Windows systems to crash. CrowdStrike identified validation problems and proposed more testing and staggered deployments to reduce the chance of a similar failure (CrowdStrike 2024).
 
 ### Justification and reflection
 
-I chose this artefact because I believe a cybersecurity company has a particularly high responsibility to make sure its software is reliable. The scale of CrowdStrike's systems also means that greater testing should be expected before an update is widely deployed. As the saying goes, with great power comes great responsibility. The workshop did not necessarily change my view because I already believed ethical decisions depend heavily on the circumstances. However, learning about ethical frameworks made the reasoning behind that view clearer to me. Frameworks provide a useful structure for decision-making, but I think ICT professionals still need to consider the specific context rather than applying them inflexibly.
+I chose this artefact because a cybersecurity company has a particularly high responsibility to make sure its software is reliable. The scale of CrowdStrike's systems means greater testing should be expected before an update is widely deployed. The workshop did not change my view that ethical decisions depend on the circumstances, but ethical frameworks gave me a clearer way to explain that reasoning. They provide useful guidance, while ICT professionals still need to consider the specific context rather than apply them inflexibly.
 
 ## Artefact 2: Privacy and Responsibility
 
@@ -28,11 +28,11 @@ Link: https://www.oaic.gov.au/news/media-centre/oaic-takes-civil-penalty-action-
 
 ### Summary
 
-The OAIC (2024) describes civil penalty proceedings against Medibank following its 2022 data breach. It alleges that Medibank failed to take reasonable steps to protect the personal information of 9.7 million Australians, including sensitive health information. The OAIC argues that organisations have both a legal and ethical duty to protect information entrusted to them.
+The OAIC (2024) describes civil penalty proceedings against Medibank following its 2022 data breach. It alleges that Medibank failed to protect the personal information of 9.7 million Australians, including sensitive health information. The OAIC argues that organisations have both a legal and ethical duty to protect information entrusted to them.
 
 ### Justification and reflection
 
-I chose this artefact because people trust organisations such as Medibank with information they expect to remain private. I think the hacker carries most of the responsibility for the attack, but that does not remove the company's responsibility. I see responsibility as existing on a scale. Health information may be more sensitive than ordinary contact details, but both are still private. The workshop did not really change my view that ethics is not one-size-fits-all, but social contract theory made the idea of rights and responsibilities clearer to me. Where the law has not yet established a clear precedent, I think ethical reasoning becomes especially important.
+I chose this artefact because people trust organisations like Medibank with information they expect to remain private. I think the hacker carries most responsibility, but that does not remove the company's responsibility. Health information may be more sensitive than contact details, but both are private. The workshop did not change my view that ethics is not one-size-fits-all, but social contract theory made rights and responsibilities clearer. Where the law has no clear precedent, ethical reasoning becomes especially important.
 
 ## Artefact 3: Ethical Hacking
 
@@ -44,11 +44,11 @@ Link: https://www.abc.net.au/news/2026-05-06/why-the-police-are-running-a-hackin
 
 ### Summary
 
-The ABC News video follows the Australian Federal Police's re_B00TCMP program, which introduces tech-skilled high school students to ethical hacking and cybersecurity career opportunities. A point that stood out to me was that malicious hackers currently have an advantage, creating a need to develop more people with the same technical skills on the ethical side.
+The ABC News video follows the Australian Federal Police's re_B00TCMP program, which introduces high school students to ethical hacking and cybersecurity careers. A point that stood out to me was that malicious hackers currently have an advantage, creating a need for more people with the same skills on the ethical side (ABC News 2026).
 
 ### Justification and reflection
 
-I chose this artefact because I see hacking itself as ethically neutral. How those skills are used is what matters. Teaching teenagers offensive hacking techniques carries some risk, but I think it is worth it because otherwise the ethical side remains disadvantaged. If someone chooses to work as an ethical hacker, I think they also accept the responsibilities that come with that role, including reporting vulnerabilities rather than exploiting them. The workshop did not change this view, but Kantianism gave me a clearer way to explain why intent and the principle behind an action are important.
+I chose this artefact because I see hacking itself as ethically neutral. How those skills are used is what matters. Teaching teenagers offensive hacking techniques carries risk, but I think it is worth it because otherwise the ethical side remains disadvantaged. Choosing to be an ethical hacker also means accepting responsibilities such as reporting vulnerabilities rather than exploiting them. The workshop did not change this view, but Kantianism gave me a clearer way to explain why intent matters.
 
 ## Artefact 4: Week 4 Workshop Reflection
 
@@ -58,11 +58,11 @@ I chose this artefact because I see hacking itself as ethically neutral. How tho
 
 ### Summary
 
-In the Week 4 workshop, we discussed an ethical dilemma where a software engineer had to recommend whether an application with known bugs should be released early or delayed for further testing. One point that stood out to me was the claim that delaying the release meant the company "may go out of business." I questioned how likely that outcome actually was, because the probability would affect how much weight it should have in the decision (Galea 2026).
+In the Week 4 workshop, we discussed whether a software engineer should recommend releasing an application with known bugs or delaying it for more testing. I questioned the claim that delaying the release meant the company “may go out of business,” because how likely that outcome is affects how much weight it should have in the decision (Galea 2026).
 
 ### Justification and reflection
 
-I chose this workshop discussion because it reinforced how important context is when making ethical decisions. An ICT professional has chosen a profession with ethical responsibilities, so I think they should clearly give their professional recommendation even if the final business decision belongs to someone else. The workshop also reinforced my view that ethical frameworks are useful for guiding decisions, but they should not be applied as though one approach fits every situation. The circumstances still need to be considered before reaching a conclusion.
+I chose this discussion because it reinforced how important context is in ethical decision-making. ICT professionals have ethical responsibilities, so I think they should clearly give their professional recommendation even if the final business decision belongs to someone else. The workshop reinforced my existing view that ethical frameworks are useful for guidance, but one approach does not fit every situation. The circumstances still need to be weighed before reaching a conclusion.
 
 ## Use of Artificial Intelligence Tools
 
