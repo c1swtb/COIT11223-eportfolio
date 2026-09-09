@@ -50,7 +50,7 @@ In April 2026, Australia passed its first orphan works scheme for copyright mate
 
 I support allowing orphan works to be used, but only in a controlled manner. Institutions should document genuine attempts to identify the owner rather than simply claiming they could not be found. If they use the work, I think they assume responsibility for protecting it from unauthorised reproduction or access. If the owner later appears, their rights should be restored immediately where practical, or within a strict timeframe otherwise. This balances public access with the creator's rights rather than treating those rights as permanently lost.
 
-## Artefact 4: Digital Subscriptions and Changing Service Terms
+## Artefact 4: Digital Subscriptions and Changing Service Terms 
 
 ### Artefact
 
