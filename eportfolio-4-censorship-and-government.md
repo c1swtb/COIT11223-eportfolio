@@ -9,6 +9,7 @@ This e-portfolio presents four artefacts on censorship, regulation and society.
 Link: https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=629
 
 Image:
+
 <img width="952" height="1024" alt="image" src="https://github.com/user-attachments/assets/fad4a0e8-8d50-4a06-9a81-6abadeeb60a9" />
 
 ### Summary
@@ -26,6 +27,7 @@ I chose this artefact because it connects directly to the Week 9 discussion abou
 Link: https://www.ofcom.org.uk/online-safety/protecting-children/enforcement-bulletin-enforcement-programme-to-protect-children-from-harmful-content-through-the-use-of-age-assurance
 
 Image:
+
 <img width="958" height="1026" alt="image" src="https://github.com/user-attachments/assets/f13ac2c5-604c-4c88-a94e-5201b886ee75" />
 
 ### Summary
@@ -43,6 +45,7 @@ I chose this artefact because the result went beyond the regulation's original t
 Link: https://digital-strategy.ec.europa.eu/en/news/commission-urges-member-states-rollout-eu-age-verification-app
 
 Image:
+
 <img width="950" height="1025" alt="image" src="https://github.com/user-attachments/assets/4516575c-0b8e-44b9-a2cd-f19ec00ea035" />
 
 ### Summary
@@ -59,6 +62,7 @@ I chose this artefact because I think age restrictions can be reasonable for som
 ### Artefact
 
 Image:
+
 <img width="1911" height="1027" alt="Screenshot 2026-09-15 105248" src="https://github.com/user-attachments/assets/721185f2-846d-47ac-a453-79f50644d6df" />
 
 ### Summary
