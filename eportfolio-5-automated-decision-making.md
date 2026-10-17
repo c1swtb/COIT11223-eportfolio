@@ -14,7 +14,7 @@ The following six artefacts explore both the benefits and risks of government AD
 
 ### Artefact
 
-[Commonwealth Ombudsman (2025) — Automation in the Targeted Compliance Framework](https://www.ombudsman.gov.au/__data/assets/pdf_file/0017/320750/Automation-in-the-Targeted-Compliance-Framework.pdf)
+Link: https://www.ombudsman.gov.au/__data/assets/pdf_file/0017/320750/Automation-in-the-Targeted-Compliance-Framework.pdf
 
 <img width="956" height="1027" alt="image" src="https://github.com/user-attachments/assets/32bf8bb8-97ac-4389-ac0a-39ab25aa180c" />
 
@@ -32,7 +32,7 @@ Having processed JobSeeker claims at Centrelink in 2024, this report is particul
 
 ### Artefact
 
-[Office of the Australian Information Commissioner (2026) — Automated Decision-Making and Public Reporting](https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act)
+Link: https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act
 
 <img width="957" height="1029" alt="image" src="https://github.com/user-attachments/assets/54778552-9adb-4f10-90b7-22dfcb3c562f" />
 
@@ -50,7 +50,7 @@ My experience at Centrelink taught me that meaningful review and appeal mechanis
 
 ### Artefact
 
-[UK Department for Work and Pensions (2025) — Universal Credit Advances Model Fairness Assessment](https://www.gov.uk/government/publications/fairness-assessment-including-statistical-analysis-of-the-universal-credit-advances-machine-learning-model-1-april-2024-to-31-march-2025/universal-credit-advances-model-fairness-assessment)
+Link: https://www.gov.uk/government/publications/fairness-assessment-including-statistical-analysis-of-the-universal-credit-advances-machine-learning-model-1-april-2024-to-31-march-2025/universal-credit-advances-model-fairness-assessment
 
 <img width="958" height="1030" alt="image" src="https://github.com/user-attachments/assets/92fe41f9-a13e-4fa0-8742-02c0ca23a9f9" />
 
@@ -68,7 +68,7 @@ The demographic disparities highlighted in this report raise interesting ethical
 
 ### Artefact
 
-[Australian Human Rights Commission (2026) — Commissioners Welcome Ombudsman Probe of Automated Aged Care Assessments](https://humanrights.gov.au/about-us/media-centre/media-releases/older-peoples-rights/commissioners-welcome-ombudsman-probe-of-automated-aged-care-assessments)
+Link: https://humanrights.gov.au/about-us/media-centre/media-releases/older-peoples-rights/commissioners-welcome-ombudsman-probe-of-automated-aged-care-assessments
 
 <img width="951" height="1025" alt="image" src="https://github.com/user-attachments/assets/480785e8-622c-47bf-ad56-ae3d20733f6b" />
 
@@ -86,7 +86,7 @@ I believe the authority to override automated decisions should depend on demonst
 
 ### Artefact
 
-[OECD (2025) — Digital Government Review of Korea](https://www.oecd.org/en/publications/digital-government-review-of-korea_9defc197-en/full-report/delivering-human-centred-and-proactive-public-services_41783522.html)
+Link: https://www.oecd.org/en/publications/digital-government-review-of-korea_9defc197-en/full-report/delivering-human-centred-and-proactive-public-services_41783522.html
 
 <img width="957" height="1030" alt="image" src="https://github.com/user-attachments/assets/90582a7b-51c8-4e1f-a818-84d66640ff2d" />
 
@@ -104,7 +104,7 @@ This programme demonstrates an application of AI that I strongly support. Vulner
 
 ### Artefact
 
-[Digital Transformation Agency (2025) — Policy for the Responsible Use of AI in Government, Version 2.0](https://www.digital.gov.au/ai/ai-in-government-policy)
+Link: https://www.digital.gov.au/ai/ai-in-government-policy
 
 <img width="958" height="1029" alt="image" src="https://github.com/user-attachments/assets/50d2f447-434b-4c99-a3a2-28ddd90df55e" />
 
